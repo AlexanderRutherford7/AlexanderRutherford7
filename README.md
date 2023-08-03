@@ -1,12 +1,15 @@
 <h1>Hi, I'm Alex! </h1>
 
-<h2> Cybersecurity Projects:</h2>
+<h2> Projects </h1>
+
+- Active Directory
+
+<h2> Cybersecurity Projects</h2>
 
 - Creating a Microsoft Azure Web Application 
-- [Building a Security Monitoring Environment with Splunk](https://github.com/AlexanderRutherford7/Building-a-Security-Monitoring-Environment-with-Splunk)
 - [EyeWitness Kali Linux Tool](https://github.com/AlexanderRutherford7/EyewitnessKaliLinux-)
 
-<h2> Certifications:</h2>
+<h2> Certifications</h2>
 
 - [Cybersecurity Bootcamp Certificate](https://www.credly.com/badges/625ac221-cad2-4b0a-bd88-23e4d6918b62/public_url)
 
