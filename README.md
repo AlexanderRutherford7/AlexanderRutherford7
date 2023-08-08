@@ -1,12 +1,8 @@
 <h1>Hi, I'm Alex! </h1>
 
-<h2> Projects </h1>
+<h2> Projects</h2>
 
-- Active Directory
-
-<h2> Cybersecurity Projects</h2>
-
-- Creating a Microsoft Azure Web Application 
+- [Creating a Microsoft Azure Web Application] 
 - [EyeWitness Kali Linux Tool](https://github.com/AlexanderRutherford7/EyewitnessKaliLinux-)
 
 <h2> Certifications</h2>
